@@ -1,0 +1,12 @@
+M: Right away
+Jul: You liked the food Are?
+Are: Yes, the food was very hot enough, not salty, they were cooked enough, all very well i loved it.
+Jul: I like it a lot, just like everything I liked.
+M: Here they are, have an excellent afternoon, we hope to see you soon.
+Jul: Thank you very much.
+Context_3: The two friends leave the restaurant, and say goodbye
+
+Jul: Are, it was a pleasure to talk to you, I hope it will repeat itself and tell me how it was that it was.  
+Are: Sure Jul, have an excellent afternoon, take good care of yourself and you're well.
+
+
